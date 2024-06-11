@@ -9,7 +9,7 @@ login_url = "https://forum.paticik.com/login/"
 
 
 # Change this with your profile content URL
-profile_url = "https://forum.paticik.com/profile/4428-Dark_Soul/content/"
+profile_url = "Profile Content Url"
 # profile_url = "https://forum.paticik.com/profile/4428-Dark_Soul/content/"
 
 # Should be min. of 1
